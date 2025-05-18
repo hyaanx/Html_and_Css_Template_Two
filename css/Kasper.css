@@ -1493,6 +1493,7 @@ text-transform: uppercase ;
     margin-top: 90px;
 }
 
+
 @media (max-width: 767px) { 
     .contact .content .info h4:nth-of-type(2)
  {
@@ -1505,13 +1506,8 @@ text-transform: uppercase ;
         max-width: 100%;
 }
 
-.elem2 {
- width: 50%;
-
-}
-
-.elem1 {
-width: 50%;
+.elem1 , .elem2 { 
+  width: 50%;
 }
 }
 

@@ -1605,4 +1605,5 @@ text-transform: uppercase ;
       .social .container p span { 
        
         color: var(--main-color);
+          font-weight: bold;
       }

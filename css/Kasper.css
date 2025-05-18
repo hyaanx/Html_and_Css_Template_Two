@@ -1515,6 +1515,11 @@ width: 50%;
 }
 }
 
+@media (min-width: 768px) { 
+.contact .content .info div:not(:first-child) { 
+  padding-top: 75px;
+}
+}
 
 .contact .content .info .phone { 
     display: block;

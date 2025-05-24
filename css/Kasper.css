@@ -255,7 +255,7 @@ header i:hover {
 .landing { 
     min-height: 100vh;
     background-color: rgb(87, 81, 81);
-    background-image: url("../images/owl1.jpg");
+    background-image: url("../images/landing-01.webp");
     background-size: cover;
     background-position: center, top;
     position: relative;
